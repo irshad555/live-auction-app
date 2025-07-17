@@ -1,5 +1,5 @@
-@extends('admin.layouts.app')
-@section('title','title')
+@extends('layouts.admin_bidder_app')
+@section('title','Admin')
 @section('top_scripts')
 @endsection
 @section('style')
